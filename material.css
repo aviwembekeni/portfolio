@@ -10112,6 +10112,7 @@ _:-ms-input-placeholder, :root .mdl-slider.mdl-slider.is-upgraded {
 /* Animations */
 /* Dialog */
 .mdl-textfield {
+  width: 100%;
   position: relative;
   font-size: 16px;
   display: inline-block;
@@ -10855,6 +10856,7 @@ _:-ms-input-placeholder, :root .mdl-slider.mdl-slider.is-upgraded {
 /* TOOLTIP */
 /* CHIP */
 .mdl-grid {
+  background-color: #999;
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
